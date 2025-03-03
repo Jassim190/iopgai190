@@ -1,12 +1,10 @@
-
 {
- "version":"1",
+ "version":"2",
  "title":"🚀 Update available 🚀",
- "description":" 📛 RCWhatsApp v16 📛
-1. تحديث القاعدة إلى 2.24.21.79. 
-2. حل كل المشاكل السابقه. 
-3. حمايه اكثر ضد الحظر. 
-4. تعزيز زر العكس والبلاغات.",
-"download":"
-https://t.me/Jawhatsapp"
+ "description":" 📛 RCWhatsApp v10.8 📛
+1. Download Psiphon Pro VPN from the Play Store. 
+2. Disable Google Play Protect on Play Store and also disable Location on your device. 
+3. Open the Psiphon Pro app and go to the Options tab and then VPN Settings, select “Selected apps only” and add the Mod you want to link. 
+4. Enable VPN and repeat the linking method. (it may stop working later).",
+"download":"https://t.me/Jawhatsapp"
 }
